@@ -1,0 +1,7 @@
+{
+  "name": "uRadio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

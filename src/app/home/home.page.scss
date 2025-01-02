@@ -1,0 +1,5 @@
+/* Ensure the ion-content takes up the full height */
+ion-content {
+  height: 100vh;
+  display: block;
+}
